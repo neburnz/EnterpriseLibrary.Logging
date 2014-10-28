@@ -1,4 +1,4 @@
-EnterpriseLibrary.Logging.ConsoleApplication
+EnterpriseLibrary.Logging
 ============================================
 
-Console Windows project for Enterprise Library Logging Application Block demo
+Main project for Enterprise Library Logging Application Block demos
